@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const FilterDropdown = ({ label, options, selected, toggle }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -7,7 +7,7 @@ const FilterDropdown = ({ label, options, selected, toggle }) => {
     <div className="relative inline-block text-left">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="bg-gray-800 text-white px-4 py-2 rounded hover:bg-gray-700 capitalize"
+        className="bg-gray-800 text-white px-4 py-2 rounded hover:bg-gray-700 capitalize cursor-pointer"
       >
         {label}
       </button>

@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white p-8">
-      <h1 className="text-4xl font-bold text-center mb-6">DevM Nomenclature</h1>
+      <h1 className="text-5xl font-bold text-center mb-6 font-heading">DevM Nomenclature</h1>
       <FilterBar filters={filters} setFilters={setFilters} />
       <BadgeGrid filters={filters} setSelectedBadge={setSelectedBadge} />
       {selectedBadge && <BadgeModal badge={selectedBadge} setSelectedBadge={setSelectedBadge} />}
