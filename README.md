@@ -136,4 +136,3 @@ Let's build an inclusive, diverse, and exciting developer ecosystem together.
 ---
 
 *DevM: Because developers deserve more than just "Full Stack."* 💙
-```
