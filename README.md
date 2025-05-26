@@ -1,6 +1,6 @@
 # DevM Nomenclature 1.0 🚀
 
-![DevM Cover](./demo/public/readme-cover.png)
+![DevM Cover](./demo/public/readme-cover-2.png)
 
 Welcome to **DevM Nomenclature**—a new way to define developer skill sets in the modern era.  
 Forget the outdated term "Full Stack Developer"—DevM offers a precise, layered system to classify and showcase your technical expertise across **Frontend**, **Backend**, **Databases**, and **Specialized Domains**.
